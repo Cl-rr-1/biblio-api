@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "NpYFhHwFApZCe8NR3pssyPBRUQFWgL96mRp6mYOPdetAIxv++NL52tkeGV1rNaLCtV2dGtB3abbQfhOH8JFY0Q==",
+  "success": true,
+  "projectFilePath": "/home/claire/Documents/Projets/C#/BiblioApi/BiblioApi.csproj",
+  "expectedPackageFiles": [
+    "/home/claire/.nuget/packages/microsoft.aspnetcore.openapi/8.0.24/microsoft.aspnetcore.openapi.8.0.24.nupkg.sha512",
+    "/home/claire/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/claire/.nuget/packages/microsoft.openapi/1.6.14/microsoft.openapi.1.6.14.nupkg.sha512",
+    "/home/claire/.nuget/packages/swashbuckle.aspnetcore/6.6.2/swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "/home/claire/.nuget/packages/swashbuckle.aspnetcore.swagger/6.6.2/swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "/home/claire/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.6.2/swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "/home/claire/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.6.2/swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}
