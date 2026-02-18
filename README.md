@@ -8,6 +8,6 @@ C'est une application de gestion de livres, en C#.
 
 
 ## Accéder au Swagger : 
-[./swagger/](http://localhost:5143/swagger/)
+[./swagger/]{:target="_blank"}(http://localhost:5143/swagger/)
 
 
